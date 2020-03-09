@@ -1,0 +1,22 @@
+[
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 17,
+   "packets-requested": 13,
+   "client-guid": "3cc76b74-7d16-4651-9699-34332a56f6e7",
+   "client-address": "200.47.19.120",
+   "request-time": 1467175919322,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 17,
+   "packets-requested": 17,
+   "client-guid": "04402d03-0952-4d42-8c1f-f2d0b1a9f375",
+   "client-address": "93.112.39.128",
+   "request-time": 1467173663381,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 3
+ }
+]

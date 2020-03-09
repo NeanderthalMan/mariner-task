@@ -1,0 +1,4 @@
+client-address,client-guid,request-time,service-guid,retries-request,packets-requested,packets-serviced,max-hole-size
+124.253.117.135,7b5b34c5-2d3a-46c8-b462-58ee432c8f0f,2016-06-29 07:22:30 ADT,04402d03-0952-4d42-8c1f-f2d0b1a9f376,5,15,13,11
+184.12.162.43,0802bb30-2feb-41de-aa5e-67ea7cda91ef,2016-06-29 06:32:41 ADT,04402d03-0952-4d42-8c1f-f2d0b1a9f377,6,16,0,9
+184.12.162.43,0802bb30-2feb-41de-aa5e-67ea7cda91ef,2016-06-29 06:32:41 ADT,04402d03-0952-4d42-8c1f-f2d0b1a9f377,6,16,1,9

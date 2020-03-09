@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<records>
+<report>
+<packets-serviced>0</packets-serviced>
+<client-guid>0ab47f58-2c17-4b8d-9bd1-20ca3b924877</client-guid>
+<packets-requested>7</packets-requested>
+<service-guid>3cc76b74-7d16-4651-9699-34332a56f6e7</service-guid>
+<retries-request>8</retries-request>
+<request-time>2015-06-28 17:05:59 ADT</request-time>
+<client-address>100.244.243.255</client-address>
+<max-hole-size>6</max-hole-size>
+</report>
+<report>
+<packets-serviced>9</packets-serviced>
+<client-guid>c6379614-8ad6-4318-b21f-8f977ce874ec</client-guid>
+<packets-requested>12</packets-requested>
+<service-guid>3cc76b74-7d16-4651-9699-34332a56f6e7</service-guid>
+<retries-request>5</retries-request>
+<request-time>2016-06-29 03:58:24 ADT</request-time>
+<client-address>166.224.30.98</client-address>
+<max-hole-size>14</max-hole-size>
+</report>
+<report>
+<packets-serviced>3</packets-serviced>
+<client-guid>c6379614-8ad6-4318-b21f-8f977ce874ec</client-guid>
+<packets-requested>12</packets-requested>
+<service-guid>3cc76b74-7d16-4651-9699-34332a56f6e7</service-guid>
+<retries-request>5</retries-request>
+<request-time>2016-06-29 03:58:24 ADT</request-time>
+<client-address>166.224.30.98</client-address>
+<max-hole-size>14</max-hole-size>
+</report>
+</records>
